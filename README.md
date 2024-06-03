@@ -1,2 +1,1 @@
-    DOCUMETATION
-    
+To set up and run the project clone the repository and ensure you have a NODE.js installed on you machine. Run this command node app.js to start the serve
